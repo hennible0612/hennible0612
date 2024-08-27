@@ -1,16 +1,24 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+<h2 align='center'>👋 Hello, I'm Backend Devleoper, SungWoo Hong</h2>
 
-<!--
-**hennible0612/hennible0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align='center'>Learning About ... ✏️</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,jenkins,prometheus,grafana" />
+  </a>
+</p>
+
+<h3 align='center'>Tried ... 📕</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,react" />
+  </a>
+</p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=hennible0612&show_icons=true&theme=transparent" alt="SungWoo's GitHub stats">
+</p>
