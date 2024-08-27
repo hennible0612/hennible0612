@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-<h2 align='center'>👋 Hello, I'm Backend Devleoper, SungWoo Hong</h2>
+<h2 align='center'>👋 Hello, I'm Backend Devleoper, SungWoo Hong</h2>
 
 <hr>
 
