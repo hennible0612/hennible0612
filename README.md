@@ -19,4 +19,5 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=hennible0612&show_icons=true&theme=transparent" alt="SungWoo's GitHub stats">
 </p>
- ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
